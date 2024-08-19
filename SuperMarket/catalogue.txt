@@ -1,0 +1,6 @@
+Carrots; 56;0.75;C23;
+Broccoli; 33;1.25;B21;
+Tomatoes; 78;0.80;T011;
+Zucchini; 41;1.10;Z21;
+Bell peppers;63;0.90;B12;
+Cauliflower;25;1.00;C123;
